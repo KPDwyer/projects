@@ -5,8 +5,7 @@ Source for WFC is closed.  The code is not documented well enough to be of any u
 [Staggered Fill on YouTube](https://www.youtube.com/watch?v=AfUS6-QcaNw) - In this clip, each contiguous island can be clicked on to destroy the island, and then refill via WFC.  each new island is covered based on it's center point's distance to the middle of the square.
 
 
-
-![[simplegen.gif]]
+[![Foo](assets/simplegen.gif)](assets/fish.png)
 I started off with a simple generator using a basic pipe tileset  
 
 ---
