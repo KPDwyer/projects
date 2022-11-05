@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: KPD's stash
 
 theme:
     name: 'material'
@@ -10,7 +10,7 @@ theme:
       primary: deep purple
       accent: purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/alien
         name: Switch to dark mode
 
     # Dark mode
@@ -19,7 +19,7 @@ theme:
       primary: blue grey
       accent: teal
       toggle:
-        icon: material/toggle-switch
+        icon: material/alien-outline
         name: Switch to light mode
 
 # Extensions
