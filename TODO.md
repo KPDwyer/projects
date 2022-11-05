@@ -1,0 +1,13 @@
+needed pages:
+- beholdin
+- godotrl
+- node-based mapping
+- WFC
+- MKJr
+- Tilemaps
+- AGBiC 2021
+- Space Animals
+- Jam Games
+	- Pup Seeker
+	- Pipsqueak
+	- Networked jam gam
