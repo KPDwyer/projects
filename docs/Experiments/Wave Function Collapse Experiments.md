@@ -5,11 +5,19 @@ Source for WFC is closed.  The code is not documented well enough to be of any u
 [Staggered Fill on YouTube](https://www.youtube.com/watch?v=AfUS6-QcaNw) - In this clip, each contiguous island can be clicked on to destroy the island, and then refill via WFC.  each new island is covered based on it's center point's distance to the middle of the square.
 
 
-|                                                                                                        |                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[simplegen.gif\|200]]                                                                                | I started off with a simple generator using a basic pipe tileset                                                                                      |
-| ![[fish.png\|80]] ![[happymedusa.png\|80]] ![[indianajones.png\|80]] ![[manstickingouttongue.png\|80]] | But ended up making a more complex pipes set with overpasses, endings and other features.  I fell in love with the pictures I could find in the chaos |
-| ![[KPD.png\|200]]                                                                                      | I began constraining the generation within shapes by selectively allowing regions                                                                     |
+
+![[simplegen.gif|200]]
+I started off with a simple generator using a basic pipe tileset  
+
+---
+![[fish.png|80]] ![[happymedusa.png|80]] ![[indianajones.png|80]] ![[manstickingouttongue.png|80]] 
+But ended up making a more complex pipes set with overpasses, endings and other features.  I fell in love with the pictures I could find in the chaos.
+
+---
+![[KPD.png|200]]
+I began constraining the generation within shapes by selectively allowing regions          
+
+---
 
 Which lead to interactions like the following clips, where the user could select a region manually to trigger rebuilds of the WFC. 
 
