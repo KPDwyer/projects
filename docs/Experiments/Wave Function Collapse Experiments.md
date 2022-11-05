@@ -21,7 +21,7 @@ I began constraining the generation within shapes by selectively allowing region
 
 Which lead to interactions like the following clips, where the user could select a region manually to trigger rebuilds of the WFC. 
 
-![[0j8MsiybO2.mp4]]
+[0j8MsiybO2.mp4](0j8MsiybO2.mp4)
 
-![[N7acAcF31S.mp4]]
+[N7acAcF31S.mp4](N7acAcF31S.mp4)
 
