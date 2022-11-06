@@ -6,13 +6,13 @@ Source for WFC is closed.  The code is not documented well enough to be of any u
 
 |                          |                                                                                                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![[simplegen_small.gif]] | I started off with a simple generator using a basic pipe tileset                                                                                       |
+| ![[wfc_simplegen_small.gif]] | I started off with a simple generator using a basic pipe tileset                                                                                       |
 | ![[wfc_shape_thumb.png]] | But ended up making a more complex pipes set with overpasses, endings and other features.  I fell in love with the pictures I could find in the chaos. |
-| ![[wfc_kpd_thumb.png]]   | [fullsized asset here](assets/KPD.png).  I began constraining the generation within shapes by selectively allowing regions                             |
+| ![[wfc_kpd_thumb.png]]   | [fullsized asset here](wfc_KPD_full.png).  I began constraining the generation within shapes by selectively allowing regions                             |
 
 Which lead to interactions like the following clips, where the user could select a region manually to trigger rebuilds of the WFC. 
 
-[0j8MsiybO2.mp4](assets/0j8MsiybO2.mp4)
+[radial_sample.mp4](radial_sample.mp4)
 
-[N7acAcF31S.mp4](assets/N7acAcF31S.mp4)
+[gameplay_destruction.mp4](gameplay_destruction.mp4)
 
