@@ -6,15 +6,19 @@ Source for WFC is closed.  The code is not documented well enough to be of any u
 
 
 ![[simplegen_small.gif]]
+
 I started off with a simple generator using a basic pipe tileset  
 
 ---
 ![[wfc_shape_thumb.png]]
+
 But ended up making a more complex pipes set with overpasses, endings and other features.  I fell in love with the pictures I could find in the chaos.
 
 ---
 ![[wfc_kpd_thumb.png]]
+
 [fullsized asset here](assets/KPD.png)
+
 I began constraining the generation within shapes by selectively allowing regions          
 
 ---
