@@ -4,24 +4,11 @@ Source for WFC is closed.  The code is not documented well enough to be of any u
 
 [Staggered Fill on YouTube](https://www.youtube.com/watch?v=AfUS6-QcaNw) - In this clip, each contiguous island can be clicked on to destroy the island, and then refill via WFC.  each new island is covered based on it's center point's distance to the middle of the square.
 
-
-![[simplegen_small.gif]]
-
-I started off with a simple generator using a basic pipe tileset  
-
----
-![[wfc_shape_thumb.png]]
-
-But ended up making a more complex pipes set with overpasses, endings and other features.  I fell in love with the pictures I could find in the chaos.
-
----
-![[wfc_kpd_thumb.png]]
-
-[fullsized asset here](assets/KPD.png)
-
-I began constraining the generation within shapes by selectively allowing regions          
-
----
+|                          |                                                                                                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[simplegen_small.gif]] | I started off with a simple generator using a basic pipe tileset                                                                                       |
+| ![[wfc_shape_thumb.png]] | But ended up making a more complex pipes set with overpasses, endings and other features.  I fell in love with the pictures I could find in the chaos. |
+| ![[wfc_kpd_thumb.png]]   | [fullsized asset here](assets/KPD.png).  I began constraining the generation within shapes by selectively allowing regions                             |
 
 Which lead to interactions like the following clips, where the user could select a region manually to trigger rebuilds of the WFC. 
 
