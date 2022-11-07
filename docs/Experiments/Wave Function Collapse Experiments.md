@@ -1,5 +1,3 @@
-#unity #procedural_generation #tilemap #experiment
-
 Inspired by [mxgmn](https://github.com/mxgmn/WaveFunctionCollapse) & [Oskar Stålberg](https://twitter.com/OskSta), I spent a bunch of time building out a Unity implementation for WFC using tilemaps.  This was a fun exercising in optimization, and taught me a lot about how procedural generation can still leave room for authored editing: to me, the strength of WFC is allowing both the designer and the algorithm to "collapse" any of the nodes, opening up myriad ways to collaborate with the machine.
 
 Source for WFC is closed.  The code is not documented well enough to be of any use to anyone, but interested parties can reach out if they want to learn more.  As usual, it's worth noting that performance in these clips is often bound by screen capture / streaming, and staggered execution is an intentional choice to make the videos more interesting! 
