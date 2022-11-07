@@ -12,7 +12,7 @@ Source for WFC is closed.  The code is not documented well enough to be of any u
 
 Which lead to interactions like the following clips, where the user could select a region manually to trigger rebuilds of the WFC. 
 
-[radial_sample.mp4](radial_sample.mp4)
+[radial_sample.mp4](assets/radial_sample.mp4)
 
-[gameplay_destruction.mp4](gameplay_destruction.mp4)
+[gameplay_destruction.mp4](assets/gameplay_destruction.mp4)
 
