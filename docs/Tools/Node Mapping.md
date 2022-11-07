@@ -1,3 +1,5 @@
+#unity #procedural_generation #tool
+
 I built a node-based mapping library for Unity, using the xNode plugin for the graph tooling.  I build a lot of grid-based games and was hoping to create a Shader-Graph-like solution for generating tile maps.  This tool is open sourced  [here](https://github.com/KPDwyer/rlbits-mapping).   I kept a [fairly active Twitter thread](https://twitter.com/_KPDwyer/status/1204466766530957314) while working on this project as well.
 
 ## Needs

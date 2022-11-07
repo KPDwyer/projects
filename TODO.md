@@ -1,10 +1,10 @@
 needed pages:
 - [ ]  beholdin
 - [ ]  godotrl
-- [ ] node-based mapping
+- [x] node-based mapping
 - [x] WFC
 - [ ]  MKJr
-- [ ]  Tilemaps
+- [x]  Tilemaps
 - [ ]  AGBiC 2021
 - [ ]  Space Animals
 - [ ]  Jam Games
