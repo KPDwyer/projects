@@ -2,3 +2,7 @@ Inspired by [mxgmn](https://github.com/mxgmn/MarkovJunior), I implemented a simp
 
 It is my hope to revisit Markov Jr as part of the Godot port of my [[Node Mapping]] project.
 
+| ![[mkjr_floodrules.png]] | A flood fill is a very simple markovjr ruleset w/ 2 rules.  see the [video here](assets/mkjr_flood.mp4).                              |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[mkjr_mazerules.png]]  | With only 3 rules and no code changes, you can implement the entirety of a backtrack maze algorithm.  [video here](assets/mkjr_maze.mp4). |
+
