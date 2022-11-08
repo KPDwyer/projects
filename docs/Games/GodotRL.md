@@ -9,7 +9,7 @@ GodotRL (not the final name) is a Roguelike I'm slowly chipping away at as I lea
 - A thoughtful energy system where abilities energy costs determine how long until the next turn.
 - A Turn order bar that accurately shows the turn order and a preview of how each abilities energy cost affects turn order.
 - Entities mix and match 2 aspects from a pool to determine appearance and abilities
-- Auto Explore mode, where the player auto explores teh map until it is fully explored or something interesting happens
+- Auto Explore mode, where the player auto explores the map until it is fully explored or something interesting happens
 
 ## Upcoming
 - A token system to act as a foundational mechanic for combat
